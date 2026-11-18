@@ -2,8 +2,8 @@
 # frozen_string_literal: true
 
 cask "mouseflick" do
-  version "1.0.11"
-  sha256 "e15afd3c29be5a8773e1008bd96f1ac0b3f5c4fcd26ae1ded1249e1a67a759a8"
+  version "1.0.12"
+  sha256 "dc85ffc6ae1ee8f0878ae3d335a3208039b9ea971324e21a8d0d2b9b5d11b055"
 
   url "https://mouseflick.com/mouseflick/MouseFlick-#{version}.dmg"
   name "MouseFlick"
